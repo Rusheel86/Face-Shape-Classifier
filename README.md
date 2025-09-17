@@ -27,7 +27,7 @@
 ## 🚀 Quick Start
 ```bash
 # Clone repo
-git clone https://github.com/RedEgnival/Face-Shape-Classifier.git
+git clone https://github.com/Rusheel86/Face-Shape-Classifier.git
 cd Face-Shape-Classifier
 
 # Install dependencies
